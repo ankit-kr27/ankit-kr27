@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/ank_it_kr" target="blank"><img src="https://img.shields.io/twitter/follow/ank_it_kr?logo=twitter&style=for-the-badge" alt="ank_it_kr" /></a> </p>
 
-- 🔭 I’m currently working on **Pomodoro App**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **JS, C++**
 
