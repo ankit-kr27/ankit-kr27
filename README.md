@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 Freelance Project: Currently diving into freelance work.<br>👯 React Collaboration: Seeking partnerships on React projects.<br>🌱 Backend Learning: Exploring the world of backend development.<br>💬 Ask Me About: JavaScript and ReactJs queries.<br>⚡ Fun Fact: "Every update is just a temporary solution."
+👋 Hey there! I'm Ankit Kumar, a tech enthusiast on a mission to code the future! 🚀<br/>
+
+🎓 Currently pursuing B.Tech in CSE @ Manipal University Jaipur<br/>
+💡 Code, coffee, and creativity are my superpowers ☕💻✨<br/>
+🏆 Hackathon veteran with a knack for building innovative solutions<br/>
+🔧 I build cool things with React, Node.js, and a touch of creative magic<br/>
+📺 Creator of Orange - a video streaming platform with microblogging vibes 🍊<br/>
+🌍 On a journey to make the web a better (and slicker) place, one line of code at a time!<br/>
+
+🔗 Check out my projects below & let's connect!
 
 
 ## 🌐 Socials:
